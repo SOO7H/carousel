@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'Carousel1';
   images = [
     {
-      imageSrc: 'https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg',
+      imageSrc: 'https://www.the-sun.com/wp-content/uploads/sites/6/2022/09/iphone-15-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1',
       imageAlt: 'img1',
     },
     {
